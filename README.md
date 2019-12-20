@@ -6,3 +6,6 @@ Database of name "sms" you need to generate in Mysql
 ALL contents of database like tables are in SQL folder
 Execute SQL folder files and all done
 enjoy :)
+
+username: admin
+password: admin
