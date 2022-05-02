@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   
-	<h3 align="center">School Management System (JAVA-MYSQL)</h3>
+<h3 align="center">School Management System (JAVA-MYSQL)</h3>
 
   <p align="center">
     This project is for multilevel users like Admin, Teacher and Student. It provide login system with registration. Student can see result, attendance etc. Teacher can submit result, daily attendance etc. and Admin can add new Student and teacher, create new session, class etc.
