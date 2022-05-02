@@ -83,7 +83,7 @@ After installing MySQL :
 1. Open MySQL
 2. Create Database of name "sms"
 3. Execute SQL files given below in the folder
-   [](https://github.com/Parthp1810/School-Management-System-JAVA-MYSQL/tree/master/src/SQL)
+   [https://github.com/Parthp1810/School-Management-System-JAVA-MYSQL/tree/master/src/SQL](https://github.com/Parthp1810/School-Management-System-JAVA-MYSQL/tree/master/src/SQL)
 
 ### Netbeans 
 
