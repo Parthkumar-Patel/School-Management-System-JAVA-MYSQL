@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is core java project.Managing thousands of student data and their fee is quite dificult for a school management so this project help to manage student as well as teachers and employee data also.Performing many CURD operation in this project. This project help alot for School admin ..<br/>
+This is core java project. Managing thousands of student data and their fee is quite dificult for a school management so this project help to manage student as well as teachers and employee data also. Performing many CURD operation in this project. This project help alot for School Adminstartor.<br/>
 	
 ### Features
 
