@@ -75,6 +75,8 @@ Enter Default Login Details
 * Username : admin
 * Password : admin
 
+**Note** : don't forget to set your password of MySQL in class Connection " Connection con = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/sms","root","mysql");" inside Netbeans.
+
 ### MySQL Changes 
 
 After installing MySQL :
