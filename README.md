@@ -83,7 +83,7 @@ After installing MySQL :
 1. Open MySQL
 2. Create Database of name "sms"
 3. Execute SQL files given below in the folder
-   [https://github.com/Parthkumar-Patel/School-Management-System-JAVA-MYSQL/tree/master/src/SQL](https://github.com/Parthkumar-Patel/School-Management-System-JAVA-MYSQL/tree/master/src/SQL)
+   [https://github.com/Patel-Parthkumar/School-Management-System-JAVA-MYSQL/tree/master/src/SQL](https://github.com/Patel-Parthkumar/School-Management-System-JAVA-MYSQL/tree/master/src/SQL)
 
 ### Netbeans 
 
@@ -110,7 +110,7 @@ Library :- mysql-connector-java-5.1.23-bin.jar
 <!-- CONTACT -->
 ## Contact
 
-Parthkumar Patel - [@parthp1810](https://www.linkedin.com/in/parthp1810/) - parthp1810@gmail.com
+Parthkumar Patel - [@patel-parthkumar](https://www.linkedin.com/in/patel-parthkumar/) - parthp1810@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
